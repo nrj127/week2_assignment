@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2015.4.2)  7 MAY 2015 20:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2015.4.2)  7 MAY 2015 21:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -238,6 +238,121 @@ LaTeX Info: Redefining \em on input line 430.
 LaTeX Info: The control sequence `\[' is already robust on input line 481.
 LaTeX Info: The control sequence `\]' is already robust on input line 482.
 )
+(c:/texlive/2014/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+(c:/texlive/2014/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(c:/texlive/2014/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(c:/texlive/2014/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(c:/texlive/2014/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+(c:/texlive/2014/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen138
+\Hy@linkcounter=\count112
+\Hy@pagecounter=\count113
+
+(c:/texlive/2014/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count114
+
+(c:/texlive/2014/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count115
+
+(c:/texlive/2014/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen139
+\Fld@menulength=\count116
+\Field@Width=\dimen140
+\Fld@charsize=\dimen141
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count117
+\c@Item=\count118
+\c@Hfootnote=\count119
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(c:/texlive/2014/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count120
+\c@bookmark@seq@number=\count121
+
+(c:/texlive/2014/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip54
+)
 (c:/texlive/2014/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2014/10/28 v1.1a Standard LaTeX Color (DPC)
 
@@ -297,58 +412,27 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 346.
 LaTeX Font Info:    ... okay on input line 346.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 346.
 LaTeX Font Info:    ... okay on input line 346.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 346.
+LaTeX Font Info:    ... okay on input line 346.
  (c:/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count112
-\scratchdimen=\dimen138
+\scratchcounter=\count122
+\scratchdimen=\dimen142
 \scratchbox=\box29
-\nofMPsegments=\count113
-\nofMParguments=\count114
+\nofMPsegments=\count123
+\nofMParguments=\count124
 \everyMPshowfont=\toks24
-\MPscratchCnt=\count115
-\MPscratchDim=\dimen139
-\MPnumerator=\count116
-\makeMPintoPDFobject=\count117
+\MPscratchCnt=\count125
+\MPscratchDim=\dimen143
+\MPnumerator=\count126
+\makeMPintoPDFobject=\count127
 \everyMPtoPDFconversion=\toks25
-) (c:/texlive/2014/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
-)
-
-(c:/texlive/2014/texmf-dist/tex/generic/oberdiek/ifluatex.sty
-Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-)
-(c:/texlive/2014/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in PDF mode is detected.
-)
-Package pdftexcmds Info: LuaTeX not detected.
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-)
-(c:/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+) (c:/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
 (c:/texlive/2014/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
-
-(c:/texlive/2014/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
-Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
-))
-(c:/texlive/2014/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
-
-(c:/texlive/2014/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
-Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
-
-(c:/texlive/2014/texmf-dist/tex/generic/oberdiek/etexcmds.sty
-Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-)))
+)
 Package grfext Info: Graphics extension search list:
 (grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
@@ -361,14 +445,33 @@ e
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: End \AtBeginDocument code.
+\AtBeginShipoutBox=\box30
+Package hyperref Info: Link coloring OFF on input line 346.
 
-(./coverpage.tex <pics/IN.pdf, id=1, 29.8716pt x 32.82263pt>
+(c:/texlive/2014/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(c:/texlive/2014/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count128
+)
+LaTeX Info: Redefining \ref on input line 346.
+LaTeX Info: Redefining \pageref on input line 346.
+LaTeX Info: Redefining \nameref on input line 346.
+
+(./template.out) (./template.out)
+\@outlinefile=\write3
+\openout3 = `template.out'.
+
+ (./coverpage.tex
+<pics/IN.pdf, id=32, 29.8716pt x 32.82263pt>
 File: pics/IN.pdf Graphic file (type pdf)
  <use pics/IN.pdf>
 Package pdftex.def Info: pics/IN.pdf used on input line 3.
 (pdftex.def)             Requested size: 29.8715pt x 32.82254pt.
 
-<pics/tumlogo.pdf, id=2, 53.24893pt x 28.45631pt>
+<pics/tumlogo.pdf, id=33, 53.24893pt x 28.45631pt>
 File: pics/tumlogo.pdf Graphic file (type pdf)
  <use pics/tumlogo.pdf>
 Package pdftex.def Info: pics/tumlogo.pdf used on input line 3.
@@ -399,86 +502,86 @@ Underfull \hbox (badness 10000) in paragraph at lines 24--27
  []
 
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <14> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 29.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 31.
 
-Underfull \hbox (badness 10000) in paragraph at lines 29--30
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 32.
+(Font)              <7> on input line 34.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 32.
+(Font)              <5> on input line 34.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 ) [1{c:/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./pics/IN.p
 df> <./pics/tumlogo.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 489--490
+Underfull \hbox (badness 10000) in paragraph at lines 492--493
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 497--502
+Underfull \hbox (badness 10000) in paragraph at lines 500--505
 
  []
 
-<ex2_images/IMG_1.jpg, id=15, 501.875pt x 334.24875pt>
+<ex2_images/IMG_1.jpg, id=51, 501.875pt x 334.24875pt>
 File: ex2_images/IMG_1.jpg Graphic file (type jpg)
 
 <use ex2_images/IMG_1.jpg>
-Package pdftex.def Info: ex2_images/IMG_1.jpg used on input line 507.
+Package pdftex.def Info: ex2_images/IMG_1.jpg used on input line 510.
 (pdftex.def)             Requested size: 36.135pt x 24.06282pt.
- <ex2_images/IMG_2.jpg, id=16, 80.2197pt x 120.45pt>
+ <ex2_images/IMG_2.jpg, id=52, 80.2197pt x 120.45pt>
 File: ex2_images/IMG_2.jpg Graphic file (type jpg)
 
 <use ex2_images/IMG_2.jpg>
-Package pdftex.def Info: ex2_images/IMG_2.jpg used on input line 510.
+Package pdftex.def Info: ex2_images/IMG_2.jpg used on input line 513.
 (pdftex.def)             Requested size: 36.135pt x 54.25713pt.
 
-<ex2_images/IMG_3.jpg, id=17, 501.875pt x 334.24875pt>
+<ex2_images/IMG_3.jpg, id=53, 501.875pt x 334.24875pt>
 File: ex2_images/IMG_3.jpg Graphic file (type jpg)
 
 <use ex2_images/IMG_3.jpg>
-Package pdftex.def Info: ex2_images/IMG_3.jpg used on input line 513.
+Package pdftex.def Info: ex2_images/IMG_3.jpg used on input line 516.
 (pdftex.def)             Requested size: 36.135pt x 24.06282pt.
 
-<ex2_images/IMG_4.jpg, id=18, 501.875pt x 334.24875pt>
+<ex2_images/IMG_4.jpg, id=54, 501.875pt x 334.24875pt>
 File: ex2_images/IMG_4.jpg Graphic file (type jpg)
 
 <use ex2_images/IMG_4.jpg>
-Package pdftex.def Info: ex2_images/IMG_4.jpg used on input line 516.
+Package pdftex.def Info: ex2_images/IMG_4.jpg used on input line 519.
 (pdftex.def)             Requested size: 36.135pt x 24.06282pt.
 
-<ex2_images/IMG_5.jpg, id=19, 54.80594pt x 70.99214pt>
+<ex2_images/IMG_5.jpg, id=55, 54.80594pt x 70.99214pt>
 File: ex2_images/IMG_5.jpg Graphic file (type jpg)
 
 <use ex2_images/IMG_5.jpg>
-Package pdftex.def Info: ex2_images/IMG_5.jpg used on input line 519.
+Package pdftex.def Info: ex2_images/IMG_5.jpg used on input line 522.
 (pdftex.def)             Requested size: 36.135pt x 46.80727pt.
- <ex2_images/IMG_6.jpg, id=20, 401.5pt x 301.125pt>
+ <ex2_images/IMG_6.jpg, id=56, 401.5pt x 301.125pt>
 File: ex2_images/IMG_6.jpg Graphic file (type jpg)
 
 <use ex2_images/IMG_6.jpg>
-Package pdftex.def Info: ex2_images/IMG_6.jpg used on input line 522.
+Package pdftex.def Info: ex2_images/IMG_6.jpg used on input line 525.
 (pdftex.def)             Requested size: 36.135pt x 27.10007pt.
 
-<ex2_images/IMG_7.jpg, id=21, 853.1875pt x 643.40375pt>
+<ex2_images/IMG_7.jpg, id=57, 853.1875pt x 643.40375pt>
 File: ex2_images/IMG_7.jpg Graphic file (type jpg)
 
 <use ex2_images/IMG_7.jpg>
-Package pdftex.def Info: ex2_images/IMG_7.jpg used on input line 525.
+Package pdftex.def Info: ex2_images/IMG_7.jpg used on input line 528.
 (pdftex.def)             Requested size: 36.135pt x 27.24367pt.
- <ex2_images/IMG_8.jpg, id=22, 200.75pt x 138.116pt>
+ <ex2_images/IMG_8.jpg, id=58, 200.75pt x 138.116pt>
 File: ex2_images/IMG_8.jpg Graphic file (type jpg)
 
 <use ex2_images/IMG_8.jpg>
-Package pdftex.def Info: ex2_images/IMG_8.jpg used on input line 528.
+Package pdftex.def Info: ex2_images/IMG_8.jpg used on input line 531.
 (pdftex.def)             Requested size: 36.135pt x 24.8598pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 637.
+(Font)              <8> on input line 640.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 637.
+(Font)              <6> on input line 640.
  [2
 
 
@@ -497,21 +600,30 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 737.
 [3 <./ex2_images/IMG_1.jpg> <./ex2_images/IMG_2.jpg> <./ex2_images/IMG_3.jpg> <
 ./ex2_images/IMG_4.jpg> <./ex2_images/IMG_5.jpg> <./ex2_images/IMG_6.jpg> <./ex
-2_images/IMG_7.jpg> <./ex2_images/IMG_8.jpg>] (./template.aux)
+2_images/IMG_7.jpg> <./ex2_images/IMG_8.jpg>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 737.
+ (./template.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 737.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 737.
+Package rerunfilecheck Info: File `template.out' has not changed.
+(rerunfilecheck)             Checksum: A7781252AF05A9472B35EADC3AF79912;412.
+
 
 LaTeX Warning: There were multiply-defined labels.
 
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 737.
  ) 
 Here is how much of TeX's memory you used:
- 3885 strings out of 493109
- 60129 string characters out of 6138588
- 133161 words of memory out of 5000000
- 7279 multiletter control sequences out of 15000+600000
+ 7448 strings out of 493109
+ 114124 string characters out of 6138588
+ 213060 words of memory out of 5000000
+ 10789 multiletter control sequences out of 15000+600000
  47388 words of font info for 83 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 38i,10n,47p,1059b,340s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,13n,47p,1059b,430s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2014/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2014/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2014/texmf-dist/fonts/type1
@@ -524,10 +636,10 @@ onts/type1/urw/helvetic/uhvro8a.pfb><c:/texlive/2014/texmf-dist/fonts/type1/urw
 /times/utmb8a.pfb><c:/texlive/2014/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb
 ><c:/texlive/2014/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2014/
 texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on template.pdf (3 pages, 1083004 bytes).
+Output written on template.pdf (3 pages, 1084824 bytes).
 PDF statistics:
- 81 PDF objects out of 1000 (max. 8388607)
- 52 compressed objects within 1 object stream
- 0 named destinations out of 1000 (max. 500000)
- 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 148 PDF objects out of 1000 (max. 8388607)
+ 117 compressed objects within 2 object streams
+ 29 named destinations out of 1000 (max. 500000)
+ 107 words of extra memory for PDF output out of 10000 (max. 10000000)
 
