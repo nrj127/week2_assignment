@@ -13,12 +13,13 @@ figure;
  %t = templateTree('Surrogate', 'on');
  
   
- clf = fitensemble(images(1:1000,:),labels(1:1000),'AdaBoostM2',100,'Tree')
+ %clf = fitensemble(images(1:1000,:),labels(1:1000),'AdaBoostM2',100,'Tree')
+ clf = fitensemble(images(1:1000,:), labels(1:1000), 'Bag', 1000, 'Tree','Type', 'Classification');
 %clf = fitensemble(images(1:1000,:),labels(1:1000),'LPBoost',i,'Tree')
  %clf = fitensemble(images(1:1000,:),labels(1:1000),'AdaBoostM2',i,'Tree')
  rsLoss = resubLoss(clf,'Mode','Cumulative');
  %rsLoss_final = [rsLoss_final; rsLoss]
- subplot(5,2,i/100)
+% subplot(5,2,i/100)
  plot(rsLoss);
  xlabel('Number of Learning Cycles');
  ylabel('Resubstitution Loss');
